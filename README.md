@@ -25,7 +25,9 @@ The first three of these commands with the movie, artist, or song that you would
 If multiple songs are returned by the spotify-this-song command, you will be prompted to select from a list of results.
 If no movie or song is selected, a default song will be automatically inferred.
 
-The fourth command that the program will accept is 'do-what-it-says'. This is 
+The fourth command that the program will accept is 'do-what-it-says'. This is used to load a command from the attached random.txt file rather than from the console itself. To use it, edit random.txt to hold your command (pictured below), and then run 'node liri do-what-it-says'. This will run the specified command as though it had been entered into the terminal.\
+![Image of random.txt](https://github.com/wesleykruger/liri-node-app/blob/master/assets/screenshots/randomTxt.PNG)
+![Image of do-what-is-says](https://github.com/wesleykruger/liri-node-app/blob/master/assets/screenshots/doWhatItSays.PNG)
 
 ### Project made using:
    * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)
