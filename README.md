@@ -1,4 +1,4 @@
-#LiriBot
+#LiriBot#
 This is a simple Node.js console application designed to interface with the OMDB, Spotify, and BandsInTown web APIs. 
 Which API is accessed is determined by keyword.
 
