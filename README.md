@@ -15,6 +15,7 @@ The program accepts 4 commands:
 
 The first three of these commands with the movie, artist, or song that you would like information about. For example:
 1. movie-this 'Star Wars'
+![Image of movie-this](assets/screenshots/movie.png)
 2. concert-this 'Fall Out Boy'
 3. spotify-this-song 'In My Feelings'
 
