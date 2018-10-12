@@ -30,7 +30,7 @@ If no movie or song is selected, a default song will be automatically inferred.
 
    * [Moment](https://www.npmjs.com/package/moment)
 
-   * [DotEnv](https://www.npmjs.com/package/dotenv).
+   * [DotEnv](https://www.npmjs.com/package/dotenv)
    
    * [Chalk](https://www.npmjs.com/package/chalk)
    
